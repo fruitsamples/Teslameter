@@ -2,7 +2,7 @@
     File: TeslameterViewController.h
 Abstract: A view controller that manages the primary view within the application. It creates a CLLocationManager and turns on heading updates. As updates are received, it displays them in a graph, x, y, and z labels, and also computes the magnitude (size or strength) of the magnetic vector. The units for all values are microteslas.
 
- Version: 1.1
+ Version: 1.2
 
 Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple
 Inc. ("Apple") in consideration of your agreement to the following
@@ -42,7 +42,7 @@ AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE),
 STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-Copyright (C) 2009 Apple Inc. All Rights Reserved.
+Copyright (C) 2010 Apple Inc. All Rights Reserved.
 
 */
 

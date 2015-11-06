@@ -10,12 +10,12 @@ The use of the Core Location API for getting "heading" data is contained in the 
 ===========================================================================
 BUILD REQUIREMENTS:
 
-iPhone OS 3.0
+iOS SDK 4.0
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-iPhone OS 3.0 and iPhone 3GS
+iPhone OS 3.2 or later and iPhone 3GS or iPhone 4
 Requires a device with a magnetometer. This sample will run in the Simulator but only one magnetic measurement will be received.
 
 ===========================================================================
@@ -38,8 +38,14 @@ A custom view for plotting history of x, y, and z magnetic values.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
+Version 1.2
+- Updated to work with iOS 4.0.
+
+Version 1.1
+- Minor post-WWDC clean-up
+
 Version 1.0
 - First version.
 
 ===========================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
